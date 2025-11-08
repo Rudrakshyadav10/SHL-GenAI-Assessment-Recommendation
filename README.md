@@ -17,7 +17,9 @@ The project builds an **AI-powered Assessment Recommendation Engine** that match
 - `predictions.csv` → Final recommendations for 9 queries (Unlabelled Test Set)  
 - `2_page_report.pdf` → Methodology and explanation  
 
-## 🌐 Web App Link  
+## 🌐 Live App  
+Access the deployed web app here:  
+[SHL Assessment Recommendation Engine]([https://your-vercel-link.vercel.app](https://shl-intern.vercel.app/)
 
 
 ## 🧩 Tech Used  
